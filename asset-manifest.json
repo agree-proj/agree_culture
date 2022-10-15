@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/agree_culture/static/css/main.d4da15cf.css",
+    "main.js": "/agree_culture/static/js/main.e038852c.js",
+    "static/media/subsidy.gif": "/agree_culture/static/media/subsidy.c721e84f4c0f95a70d9a.gif",
+    "static/media/tractorgifffff.gif": "/agree_culture/static/media/tractorgifffff.52e93ee972500baf8570.gif",
+    "static/media/grapefruit-g7811ccaf2_1280.jpg": "/agree_culture/static/media/grapefruit-g7811ccaf2_1280.eb9469e2e94a7accafbb.jpg",
+    "static/media/tomato-gcf0aa9c56_1280.jpg": "/agree_culture/static/media/tomato-gcf0aa9c56_1280.7032c729f4cb850005b0.jpg",
+    "static/media/oranges-g9b41ca60d_1280.jpg": "/agree_culture/static/media/oranges-g9b41ca60d_1280.b0dd9b9868b97621bff5.jpg",
+    "static/media/bootstrap-icons.woff?": "/agree_culture/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/agree_culture/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/giff.gif": "/agree_culture/static/media/giff.2ecefccdfc3f2fefc3a7.gif",
+    "static/media/logo.png": "/agree_culture/static/media/logo.1a4128f4cbad1edb8985.png",
+    "index.html": "/agree_culture/index.html",
+    "main.d4da15cf.css.map": "/agree_culture/static/css/main.d4da15cf.css.map",
+    "main.e038852c.js.map": "/agree_culture/static/js/main.e038852c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d4da15cf.css",
+    "static/js/main.e038852c.js"
+  ]
+}
